@@ -1,0 +1,1 @@
+int countDigitOccurrences (int n, int digit);
